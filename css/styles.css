@@ -1,0 +1,13 @@
+input{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#output {
+    margin-top: 30px;
+}
+
+div {
+    background-color: lightblue;
+    margin: 10px;
+}
